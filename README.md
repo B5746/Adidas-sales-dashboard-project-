@@ -1,5 +1,4 @@
 Project Title: US Retail Sales Performance Analysis (2020-2021)
-<img width="1570" height="797" alt="dashbord" src="https://github.com/user-attachments/assets/0f4daf34-08b1-4986-83bd-c3f730d78000" />
 1. Project Overview
 This project aims to analyze a comprehensiv<img width="1570" height="797" alt="dashbord" src="https://github.com/user-attachments/assets/ae3b80f0-eee6-4a80-bc1f-86571f7870db" />
 e sales dataset for a retail business operating across the United States. The objective was to transform raw sales data into actionable insights, identifying key performance indicators (KPIs), regional trends, and profitability across different product categories and sales methods.
